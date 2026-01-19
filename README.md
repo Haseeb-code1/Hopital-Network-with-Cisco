@@ -79,6 +79,7 @@ Redundant paths ensure better reliability and fault tolerance.
 - Operation Theater  
 
 ---
+<img width="4100" height="3616" alt="1" src="https://github.com/user-attachments/assets/d63d7456-af7c-4f3b-acce-2e3a87a1011d" />
 
 ## 🚀 How It Works
 
